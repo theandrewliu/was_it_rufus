@@ -28,6 +28,4 @@ def was_it_rufus(git_dir):
     authored_by_rufus = author =='Rufus'
     print(f'blame Rufus: {authored_by_rufus}')
 
-    pass
-
 was_it_rufus(r"C:\Users\eetur\github_projects\commoncrave")
